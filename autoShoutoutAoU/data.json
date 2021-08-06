@@ -1,0 +1,21 @@
+{
+	"no_data": true,
+	"eventsLimit": 5,
+	"includeFollowers": "yes",
+	"fontColor": "rgb(255, 81, 81)",
+	"fontStroke": "rgb(255, 4, 29)",
+	"fontShadow": "rgb(4, 0, 5)",
+	"logoShadow": "rgb(79, 255, 0)",
+	"profileShadow": "rgb(0, 231, 255)",
+	"nameColor": "rgb(15, 0, 252)",
+	"delaySo": 5,
+	"durationSo": 5,
+	"includeLogo": "true",
+	"animDurationSo": 5,
+	"previewSO": "false",
+	"animSpeedSo": 25,
+	"previewUser": "itsoik",
+	"shoutoutCommandPrefix": "!",
+	"shoutoutCommand": "!so,!shoutout",
+	"shoutoutString": "You should check out:"
+}

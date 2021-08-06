@@ -1,0 +1,80 @@
+{
+	"shoutoutCommand": {
+		"type": "text",
+		"label": "Comma seperated commands",
+		"value": "so"
+	},
+	"previewSO": {
+		"type": "dropdown",
+		"label": "Preview overlay?:",
+		"value": "false",
+		"options": {
+			"true": "Yes",
+			"false": "No"
+		}
+	},
+	"shoutoutString": {
+		"type": "text",
+		"label": "Text above image",
+		"value": "You should check out:"
+	},
+	"previewUser": {
+		"type": "text",
+		"label": "Name of user to Preview",
+		"value": "itsoik"
+	},
+	"delaySo": {
+		"type": "number",
+		"label": "Min delay between SO:",
+		"value": 5
+	},
+	"durationSo": {
+		"type": "number",
+		"label": "Max duration on SO:",
+		"value": 5
+	},
+	"animSpeedSo": {
+		"type": "number",
+		"label": "Animation speed:",
+		"value": 5
+	},
+	"includeLogo": {
+		"type": "dropdown",
+		"label": "Display AoU Logo?:",
+		"value": "true",
+		"options": {
+			"true": "Yes",
+			"false": "No"
+		}
+	},
+	"nameColor": {
+		"type": "colorpicker",
+		"label": "Name color",
+		"value": "rgb(255, 255, 255)"
+	},
+	"fontColor": {
+		"type": "colorpicker",
+		"label": "Font color",
+		"value": "rgb(255, 255, 255)"
+	},
+	"fontStroke": {
+		"type": "colorpicker",
+		"label": "Font outline color",
+		"value": "rgb(255, 255, 255)"
+	},
+	"fontShadow": {
+		"type": "colorpicker",
+		"label": "Font shadow color",
+		"value": "rgb(255, 255, 255)"
+	},
+	"logoShadow": {
+		"type": "colorpicker",
+		"label": "Logo shadow color",
+		"value": "rgb(255, 255, 255)"
+	},
+	"profileShadow": {
+		"type": "colorpicker",
+		"label": "Profile pic shadow color",
+		"value": "rgb(255, 255, 255)"
+	}
+}
