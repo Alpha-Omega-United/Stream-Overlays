@@ -31,7 +31,7 @@ first go to [StreamElements](https://www.streamelements.com) and sign in with tw
 ### STEP 2 (getting the code)
 
 1. goto AoU's [Stream Overlay github-repo](https://github.com/Alpha-Omega-United/Stream-Overlays) `https://github.com/Alpha-Omega-United/Stream-Overlays`
-2. click on the desired overlay (Currently only "AoU AutoShoutout" available)
+2. click on the desired overlay (Currently only "autoShoutoutAoU" available)
 3. here's where the "tricky" part comes:
     -  3.1 click on "index.html", copy ALL the code into step 9.1(img1)(blue outline)
     -  3.2 click on "script.js", copy ALL the code into step 9.3(img1)(blue outline)
